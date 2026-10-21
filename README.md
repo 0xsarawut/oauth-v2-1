@@ -1,4 +1,12 @@
-# The OAuth 2.1 Authorization Framework
+
+  "iss": "https://example.auth0.com/"
+  "sub": "auth0|1234567890",
+  "email": "user@example.com",
+   Configure as user identifier
+  "aud": ["test-app"],
+  "exp": 1700000000,
+  "iat": 1699996400
+}# The OAuth 2.1 Authorization Framework
 
 This is the working area for the IETF [OAUTH Working Group](https://datatracker.ietf.org/wg/oauth/documents/) Internet-Draft, "The OAuth 2.1 Authorization Framework".
 
